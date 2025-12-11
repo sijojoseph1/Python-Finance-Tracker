@@ -1,0 +1,7 @@
+# Database file: This changes frequently and should not be tracked
+finance_tracker.db
+
+# Python cache and environment files
+__pycache__/
+*.pyc
+.venv/
