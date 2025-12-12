@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 import sqlite3
 from datetime import datetime
+#Made changes
 
 # --- 1. Database Setup and Functions (ഡാറ്റാബേസ് ഫംഗ്ഷനുകൾ) ---
 
