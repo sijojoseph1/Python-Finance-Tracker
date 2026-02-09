@@ -208,3 +208,5 @@ if __name__ == '__main__':
     root = tk.Tk()
     app = FinanceTrackerApp(root)
     root.mainloop()
+    
+    #09.02.2026#
